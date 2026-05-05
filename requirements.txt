@@ -1,0 +1,7 @@
+yfinance
+pytrends
+pandas
+numpy
+matplotlib
+jax[cpu]
+# timesfm wird separat via pip von github installiert
